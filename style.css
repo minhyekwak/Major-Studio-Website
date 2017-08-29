@@ -8,4 +8,15 @@ body {
     background-repeat: no-repeat;
 	background-size: cover;
     height: 100vh;
+    text-align: center;
+}
+
+.dreamer h1 {
+    font-weight: 300;
+    font-size: 70px;
+    position: relative;
+    color: white;
+    margin-top: 0px;
+    top: 280px;
+    
 }
