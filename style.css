@@ -20,3 +20,10 @@ body {
     top: 280px;
     
 }
+
+.dreamer p {
+    position: relative;
+    top: 230px;
+    color: white;
+    font-weight: 200;
+}
